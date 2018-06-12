@@ -5,10 +5,10 @@
 
 A Rust library to introduce the `Holds` trait.
 
-[Documentation](https://docs.rs/holds/)
-
 This library is not tested or very documented at this point. Use at your own
 risk.
+
+[Documentation](https://docs.rs/holds/)
 
 ## Usage
 

@@ -1,7 +1,4 @@
-# holds &emsp; [![Latest Version]][crates.io]
-
-[Latest Version]: https://img.shields.io/crates/v/holds.svg
-[crates.io]: https://crates.io/crates/holds
+# holds
 
 A Rust library to introduce the `Holds` trait.
 
@@ -9,6 +6,7 @@ This library is not tested or very documented at this point. Use at your own
 risk.
 
 [Documentation](https://docs.rs/holds/)
+
 
 ## Usage
 
