@@ -1,0 +1,19 @@
+[package]
+name = "holds"
+description = "A Rust library to add the \"Holds\" trait for a value that can hold another value."
+repository = "https://github.com/0-0-1/holds"
+documentation = "https://docs.rs/holds/"
+version = "0.1.0"
+authors = ["0-0-1 <0-0-1@users.noreply.github.com>"]
+license = "MIT OR Apache-2.0"
+
+keywords = ["contain", "contains"]
+readme = "CRATES-IO.md"
+
+include = ["Cargo.toml", "src/**/*.rs", "CRATES-IO.md", "README.md", "LICENSE-APACHE", "LICENSE-MIT"]
+
+[features]
+
+default = ["std"]
+std = []
+unstable = []
